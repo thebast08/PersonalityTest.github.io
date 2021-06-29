@@ -1,5 +1,4 @@
 questions =  [
-   
     {"id": 0, "question": "Some people might say I’m boring.", "effects": {"left": 1}},
     {"id": 1, "question": "If you have a problem with me, tell it to my face.", "effects": {"right": 1}},
     {"id": 2, "question": "I work well as part of a team.", "effects": {"right": 1}},
